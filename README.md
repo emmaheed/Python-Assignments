@@ -1,4 +1,4 @@
-##How to get started with python
+## How to get started with python
 
 1. Write the command `brew install python3`
 2. Create a virtual environment with the command `python3 -m venv -venv` in the root directory of the project. 
