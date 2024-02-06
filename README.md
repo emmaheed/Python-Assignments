@@ -7,6 +7,5 @@
 
 ## Install packages (example) 
 5. Install numpy: `python3 -m pip install numpy`
-6. Upgrade numpy: `conda upgrade numpy`
-7. See that you can find the installed packages in `/venv/lib`
+6. See that you can find the installed packages in `/venv/lib`
 
