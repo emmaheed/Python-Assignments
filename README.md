@@ -5,7 +5,7 @@
 3. Activate the virtual environment by writing the command `source venv/bin/activate`
 4. Use the command `pip -V` to see that your virtual environment is activated.
 
-Install packages (example) 
+# Install packages (example) 
 5. Install numpy: `python3 -m pip install numpy`
 6. Upgrade numpy: `conda upgrade numpy`
 7. See that you can find the installed packages in `/venv/lib`
