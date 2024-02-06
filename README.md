@@ -5,9 +5,10 @@
 4. Use the command `pip -V` to see that your virtual environment is activated.
 
 ## Install packages 
-1. Install [pip](https://pip.pypa.io/en/stable/installation/#get-pip-py)
-2. `python3 -m pip install <package>`: The package ends in the virtual environment if activated, otherwise global on the computer.  
-3. `python3 -m pip install --upgrade <package>`
+1. Install the package handler [pip](https://pip.pypa.io/en/stable/installation/#get-pip-py).
+2. `python3 -m pip install --upgrade pip`: Upgrade pip
+3. `python3 -m pip install <package>`: The package ends in the virtual environment if activated, otherwise global on the computer.  
+4. `python3 -m pip install --upgrade <package>`
 
 ## Run python file
 1. Run a python file by writing `python3 main.py`.
