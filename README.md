@@ -6,7 +6,6 @@
 5. Run a python-file by writing `python3 main.py`.
 
 ## Install packages 
-1. Write the command `install --upgrade pip` to have the latest update.
-2. `python3 -m pip install <package>`: The package ends in the virtual environment if activated, otherwise global on the computer.  
-3. `python3 -m pip install --upgrade <package>`
+1. `python3 -m pip install <package>`: The package ends in the virtual environment if activated, otherwise global on the computer.  
+2. `python3 -m pip install --upgrade <package>`
 
