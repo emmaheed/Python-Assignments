@@ -2,7 +2,7 @@
 1. Install [python](https://www.python.org/downloads/) or for mac `brew install python3`.
 2. Install the package handler [pip](https://pip.pypa.io/en/stable/installation/#get-pip-py).
 3. `python3 -m pip install --upgrade pip`: Upgrade pip (or just python, depends on previous installation, test python --version)
-4. Create a virtual environment with the command `python3 -m venv .venv-<python-verson>` in the root directory of the project. When the virtual environment is created, it copies all the global packages at the computer. Add `.venv* to `.gitignore`.     
+4. Create a virtual environment with the command `python3 -m venv .venv-<python-verson>` in the root directory of the project. When the virtual environment is created, it copies all the global packages at the computer. Add `.venv*` to `.gitignore`.     
 5. Activate the virtual environment by writing the command `source venv/bin/activate` for mac or linux and `source venv/Scripts/activate` for windows.
 6. Use the command `pip -V` to see that your virtual environment is activated.
 
